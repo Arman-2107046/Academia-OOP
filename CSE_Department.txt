@@ -1,0 +1,159 @@
+name: arman
+student_id: 1
+email: armanr.rafi@gmail.com
+2107046
+section: A
+room_no: 101
+code1: CSE-1204
+title1: Digital Logic Design
+credit1: 3
+grade1: 3.5
+code2: CSE-1206
+title2: Object Oriented Programming
+credit2: 3
+grade2: 3.5
+3.5
+
+name: john
+student_id: 2
+email: john@gmail.com
+2107047
+section: B
+room_no: 102
+code1: CSE-1205
+title1: Data Structures
+credit1: 3
+grade1: 3.7
+code2: CSE-1207
+title2: Algorithms
+credit2: 3
+grade2: 3.9
+3.8
+
+name: sarah
+student_id: 3
+email: sarah@gmail.com
+2107048
+section: A
+room_no: 103
+code1: CSE-1208
+title1: Structured Programming
+credit1: 3
+grade1: 3.8
+code2: CSE-1209
+title2: Data Structures 
+credit2: 3
+grade2: 3.6
+3.7
+
+name: alice
+student_id: 4
+email: alice@gmail.com
+2107049
+section: B
+room_no: 104
+code1: CSE-1210
+title1: Data Structures 
+credit1: 3
+grade1: 3.9
+code2: CSE-1211
+title2:  Data Structures
+credit2: 3
+grade2: 3.7
+3.8
+
+name: David
+student_id: 5
+email: david@gmail.com
+2107050
+section: A
+room_no: 105
+code1: CSE-1212
+title1: Operating Systems
+credit1: 3
+grade1: 3.8
+code2: CSE-1213
+title2: Computer Networks
+credit2: 3
+grade2: 3.7
+3.75
+
+name: Sophia
+student_id: 6
+email: sophia@gmail.com
+2107051
+section: B
+room_no: 106
+code1: CSE-1214
+title1: Database Management
+credit1: 3
+grade1: 3.7
+code2: CSE-1215
+title2: Software Engineering
+credit2: 3
+grade2: 3.6
+3.65
+
+name: Michael
+student_id: 7
+email: michael@gmail.com
+2107052
+section: A
+room_no: 107
+code1: CSE-1216
+title1: Computer Architecture
+credit1: 3
+grade1: 3.9
+code2: CSE-1217
+title2: Web Development
+credit2: 3
+grade2: 3.8
+3.85
+
+name: Emma
+student_id: 8
+email: emma@gmail.com
+2107053
+section: B
+room_no: 108
+code1: CSE-1218
+title1: Artificial Intelligence
+credit1: 3
+grade1: 3.8
+code2: CSE-1219
+title2: Machine Learning
+credit2: 3
+grade2: 3.9
+3.85
+
+name: William
+student_id: 9
+email: william@gmail.com
+2107054
+section: A
+room_no: 109
+code1: CSE-1220
+title1: Computer Graphics
+credit1: 3
+grade1: 3.7
+code2: CSE-1221
+title2: Computer Vision
+credit2: 3
+grade2: 3.6
+3.65
+
+name: Olivia
+student_id: 10
+email: olivia@gmail.com
+2107055
+section: B
+room_no: 110
+code1: CSE-1222
+title1: Software Testing
+credit1: 3
+grade1: 3.6
+code2: CSE-1223
+title2: Cybersecurity
+credit2: 3
+grade2: 3.9
+3.75

@@ -1,0 +1,130 @@
+roll :2208001
+section: A
+room_no: 201
+code1: ECE-2101
+title1: Analog Electronics
+credit1: 3
+grade1: 3.5
+code2: ECE-2102
+title2: Digital Electronics
+credit2: 3
+grade2: 3.6
+3.55
+
+roll :2208002
+section: B
+room_no: 202
+code1: ECE-2103
+title1: Microprocessors
+credit1: 3
+grade1: 3.7
+code2: ECE-2104
+title2: Control Systems
+credit2: 3
+grade2: 3.8
+3.75
+
+roll :2208003
+section: A
+room_no: 203
+code1: ECE-2105
+title1: Communication Systems
+credit1: 3
+grade1: 3.8
+code2: ECE-2106
+title2: Electromagnetics
+credit2: 3
+grade2: 3.9
+3.85
+
+roll :2208004
+section: B
+room_no: 204
+code1: ECE-2107
+title1: Digital Signal Processing
+credit1: 3
+grade1: 3.9
+code2: ECE-2108
+title2: VLSI Design
+credit2: 3
+grade2: 3.7
+3.8
+
+roll :2208005
+section: A
+room_no: 205
+code1: ECE-2109
+title1: Embedded Systems
+credit1: 3
+grade1: 3.7
+code2: ECE-2110
+title2: RF Engineering
+credit2: 3
+grade2: 3.8
+3.75
+
+roll :2208006
+section: B
+room_no: 206
+code1: ECE-2111
+title1: Power Electronics
+credit1: 3
+grade1: 3.8
+code2: ECE-2112
+title2: Optoelectronics
+credit2: 3
+grade2: 3.9
+3.85
+
+roll :2208007
+section: A
+room_no: 207
+code1: ECE-2113
+title1: Biomedical Engineering
+credit1: 3
+grade1: 3.7
+code2: ECE-2114
+title2: Robotics
+credit2: 3
+grade2: 3.8
+3.75
+
+roll :2208008
+section: B
+room_no: 208
+code1: ECE-2115
+title1: Wireless Communications
+credit1: 3
+grade1: 3.6
+code2: ECE-2116
+title2: Antenna Theory
+credit2: 3
+grade2: 3.7
+3.65
+
+roll :2208009
+section: A
+room_no: 209
+code1: ECE-2117
+title1: Digital Image Processing
+credit1: 3
+grade1: 3.9
+code2: ECE-2118
+title2: FPGA Design
+credit2: 3
+grade2: 3.8
+3.85
+
+roll :2208010
+section: B
+room_no: 210
+code1: ECE-2119
+title1: Nanoelectronics
+credit1: 3
+grade1: 3.7
+code2: ECE-2120
+title2: Microwave Engineering
+credit2: 3
+grade2: 3.6
+3.65
+

@@ -1,0 +1,130 @@
+roll :2107101
+section: A
+room_no: 201
+code1: ME-1201
+title1: Thermodynamics
+credit1: 3
+grade1: 3.5
+code2: ME-1202
+title2: Fluid Mechanics
+credit2: 3
+grade2: 3.6
+3.55
+
+roll :2107102
+section: B
+room_no: 202
+code1: ME-1203
+title1: Mechanics of Materials
+credit1: 3
+grade1: 3.7
+code2: ME-1204
+title2: Machine Design
+credit2: 3
+grade2: 3.8
+3.75
+
+roll :2107103
+section: A
+room_no: 203
+code1: ME-1205
+title1: Thermal Systems
+credit1: 3
+grade1: 3.8
+code2: ME-1206
+title2: Heat Transfer
+credit2: 3
+grade2: 3.9
+3.85
+
+roll :2107104
+section: B
+room_no: 204
+code1: ME-1207
+title1: Dynamics of Machinery
+credit1: 3
+grade1: 3.9
+code2: ME-1208
+title2: Control Systems
+credit2: 3
+grade2: 3.7
+3.8
+
+roll :2107105
+section: A
+room_no: 205
+code1: ME-1209
+title1: Fluid Dynamics
+credit1: 3
+grade1: 3.6
+code2: ME-1210
+title2: Mechatronics
+credit2: 3
+grade2: 3.8
+3.7
+
+roll :2107106
+section: B
+room_no: 206
+code1: ME-1211
+title1: Automotive Engineering
+credit1: 3
+grade1: 3.7
+code2: ME-1212
+title2: Thermodynamics II
+credit2: 3
+grade2: 3.9
+3.8
+
+roll :2107107
+section: A
+room_no: 207
+code1: ME-1213
+title1: Materials Science
+credit1: 3
+grade1: 3.8
+code2: ME-1214
+title2: Engineering Design
+credit2: 3
+grade2: 3.7
+3.75
+
+roll :2107108
+section: B
+room_no: 208
+code1: ME-1215
+title1: Heat and Mass Transfer
+credit1: 3
+grade1: 3.9
+code2: ME-1216
+title2: Vibration Analysis
+credit2: 3
+grade2: 3.8
+3.85
+
+roll :2107109
+section: A
+room_no: 209
+code1: ME-1217
+title1: Finite Element Analysis
+credit1: 3
+grade1: 3.7
+code2: ME-1218
+title2: Robotics
+credit2: 3
+grade2: 3.6
+3.65
+
+roll :2107110
+section: B
+room_no: 210
+code1: ME-1219
+title1: Engineering Ethics
+credit1: 3
+grade1: 3.6
+code2: ME-1220
+title2: Environmental Engineering
+credit2: 3
+grade2: 3.9
+3.75
+

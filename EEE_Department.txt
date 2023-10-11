@@ -1,0 +1,130 @@
+roll :2107046
+section: A
+room_no: 101
+code1: EEE-1204
+title1: Digital Logic Design
+credit1: 3
+grade1: 3.5
+code2: EEE-1206
+title2: Electromagnetic Fields 
+credit2: 3
+grade2: 3.5
+3.5
+
+roll :2107047
+section: B
+room_no: 102
+code1: EEE-1205
+title1: Electromagnetic Fields
+credit1: 3
+grade1: 3.7
+code2: EEE-1207
+title2: Renewable Energy
+credit2: 3
+grade2: 3.9
+3.8
+
+roll :2107048
+section: A
+room_no: 103
+code1: EEE-1208
+title1: Control Systems
+credit1: 3
+grade1: 3.8
+code2: EEE-1209
+title2: Renewable Energy
+credit2: 3
+grade2: 3.6
+3.7
+
+roll :2107049
+section: B
+room_no: 104
+code1: EEE-1210
+title1: Electromagnetic Fields
+credit1: 3
+grade1: 3.9
+code2: EEE-1211
+title2: Power Electronics
+credit2: 3
+grade2: 3.7
+3.8
+
+roll :2107050
+section: A
+room_no: 105
+code1: EEE-1212
+title1: Digital Signal Processing
+credit1: 3
+grade1: 3.8
+code2: EEE-1213
+title2: Power Systems
+credit2: 3
+grade2: 3.7
+3.75
+
+roll :2107051
+section: B
+room_no: 106
+code1: EEE-1214
+title1: Microelectronics
+credit1: 3
+grade1: 3.7
+code2: EEE-1215
+title2: Electric Machines
+credit2: 3
+grade2: 3.6
+3.65
+
+roll :2107052
+section: A
+room_no: 107
+code1: EEE-1216
+title1: Communication Systems
+credit1: 3
+grade1: 3.9
+code2: EEE-1217
+title2: Control Systems
+credit2: 3
+grade2: 3.8
+3.85
+
+roll :2107053
+section: B
+room_no: 108
+code1: EEE-1218
+title1: Power Electronics
+credit1: 3
+grade1: 3.8
+code2: EEE-1219
+title2: Renewable Energy
+credit2: 3
+grade2: 3.9
+3.85
+
+roll :2107054
+section: A
+room_no: 109
+code1: EEE-1220
+title1: Digital Signal Processing
+credit1: 3
+grade1: 3.7
+code2: EEE-1221
+title2: Microelectronics
+credit2: 3
+grade2: 3.6
+3.65
+
+roll :2107055
+section: B
+room_no: 110
+code1: EEE-1222
+title1: Electric Machines
+credit1: 3
+grade1: 3.6
+code2: EEE-1223
+title2: Communication Systems
+credit2: 3
+grade2: 3.9
+3.75
+

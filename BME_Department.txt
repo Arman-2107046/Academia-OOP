@@ -1,0 +1,130 @@
+roll :2207046
+section: A
+room_no: 201
+code1: BME-1201
+title1: Biomechanics
+credit1: 3
+grade1: 3.5
+code2: BME-1202
+title2: Human Anatomy
+credit2: 3
+grade2: 3.7
+3.6
+
+roll :2207047
+section: B
+room_no: 202
+code1: BME-1203
+title1: Medical Imaging
+credit1: 3
+grade1: 3.8
+code2: BME-1204
+title2: Biomaterials
+credit2: 3
+grade2: 3.9
+3.85
+
+roll :2207048
+section: A
+room_no: 203
+code1: BME-1205
+title1: Biomechanics
+credit1: 3
+grade1: 3.7
+code2: BME-1206
+title2: Biomedical Signals
+credit2: 3
+grade2: 3.6
+3.65
+
+roll :2207049
+section: B
+room_no: 204
+code1: BME-1207
+title1: Bioinformatics
+credit1: 3
+grade1: 3.9
+code2: BME-1208
+title2: Biomechanics
+credit2: 3
+grade2: 3.8
+3.85
+
+roll :2207050
+section: A
+room_no: 205
+code1: BME-1209
+title1: Biomedical Imaging
+credit1: 3
+grade1: 3.8
+code2: BME-1210
+title2: Clinical Engineering
+credit2: 3
+grade2: 3.7
+3.75
+
+roll :2207051
+section: B
+room_no: 206
+code1: BME-1211
+title1: Biomechanics
+credit1: 3
+grade1: 3.7
+code2: BME-1212
+title2: Biomedical Ethics
+credit2: 3
+grade2: 3.6
+3.65
+
+roll :2207052
+section: A
+room_no: 207
+code1: BME-1213
+title1: Biomechanical Design
+credit1: 3
+grade1: 3.9
+code2: BME-1214
+title2: Biomedical Instrumentation
+credit2: 3
+grade2: 3.8
+3.85
+
+roll :2207053
+section: B
+room_no: 208
+code1: BME-1215
+title1: Clinical Biomechanics
+credit1: 3
+grade1: 3.8
+code2: BME-1216
+title2: Biomedical Signal Processing
+credit2: 3
+grade2: 3.9
+3.85
+
+roll :2207054
+section: A
+room_no: 209
+code1: BME-1217
+title1: Biomechanics of Injury
+credit1: 3
+grade1: 3.7
+code2: BME-1218
+title2: Rehabilitation Engineering
+credit2: 3
+grade2: 3.6
+3.65
+
+roll :2207055
+section: B
+room_no: 210
+code1: BME-1219
+title1: Tissue Engineering
+credit1: 3
+grade1: 3.6
+code2: BME-1220
+title2: Biomechanics Research
+credit2: 3
+grade2: 3.9
+3.75
+

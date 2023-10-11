@@ -1,0 +1,130 @@
+2309001
+section: A
+room_no: 301
+code1: CE-3101
+title1: Structural Analysis
+credit1: 3
+grade1: 3.5
+code2: CE-3102
+title2: Concrete Technology
+credit2: 3
+grade2: 3.6
+3.55
+
+2309002
+section: B
+room_no: 302
+code1: CE-3103
+title1: Geotechnical Engineering
+credit1: 3
+grade1: 3.7
+code2: CE-3104
+title2: Transportation Engineering
+credit2: 3
+grade2: 3.8
+3.75
+
+2309003
+section: A
+room_no: 303
+code1: CE-3105
+title1: Environmental Engineering
+credit1: 3
+grade1: 3.8
+code2: CE-3106
+title2: Fluid Mechanics
+credit2: 3
+grade2: 3.9
+3.85
+
+2309004
+section: B
+room_no: 304
+code1: CE-3107
+title1: Hydrology
+credit1: 3
+grade1: 3.9
+code2: CE-3108
+title2: Structural Design
+credit2: 3
+grade2: 3.7
+3.8
+
+2309005
+section: A
+room_no: 305
+code1: CE-3109
+title1: Surveying
+credit1: 3
+grade1: 3.7
+code2: CE-3110
+title2: Construction Management
+credit2: 3
+grade2: 3.8
+3.75
+
+2309006
+section: B
+room_no: 306
+code1: CE-3111
+title1: Project Management
+credit1: 3
+grade1: 3.8
+code2: CE-3112
+title2: Engineering Ethics
+credit2: 3
+grade2: 3.9
+3.85
+
+2309007
+section: A
+room_no: 307
+code1: CE-3113
+title1: Structural Dynamics
+credit1: 3
+grade1: 3.7
+code2: CE-3114
+title2: Soil Mechanics
+credit2: 3
+grade2: 3.8
+3.75
+
+2309008
+section: B
+room_no: 308
+code1: CE-3115
+title1: Water Resources
+credit1: 3
+grade1: 3.6
+code2: CE-3116
+title2: Construction Materials
+credit2: 3
+grade2: 3.7
+3.65
+
+2309009
+section: A
+room_no: 309
+code1: CE-3117
+title1: Transportation Planning
+credit1: 3
+grade1: 3.9
+code2: CE-3118
+title2: Geology for Engineers
+credit2: 3
+grade2: 3.8
+3.85
+
+2309010
+section: B
+room_no: 310
+code1: CE-3119
+title1: Environmental Impact Assessment
+credit1: 3
+grade1: 3.7
+code2: CE-3120
+title2: Bridge Engineering
+credit2: 3
+grade2: 3.6
+3.65
+
